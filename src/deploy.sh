@@ -6,4 +6,4 @@ rm -rf dist &&
 git add . &&
 git commit -m 'update' &&
 git push &&
-git checkout -  #回到上一个分支
+git checkout -    #回到上一个分支
